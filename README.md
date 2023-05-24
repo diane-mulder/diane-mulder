@@ -1,12 +1,12 @@
-### Hi there 👋
+### Bonjour à tous ! 👋
 
-<!--
-**diane-mulder/diane-mulder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je m'appelle Diane Mulder et suis actuellement étudiante à La Plateforme Marseille.
+Je prépare un Bachelor IT spécialisé en developpement WEB.
+Voici qui je suis et ce qui m'anime au quotidien :  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 Après 18 de carrière dans le commerce, je me prépare à vivre ma 2ème vie professionnelle.
+- 🌱 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...

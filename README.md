@@ -16,7 +16,7 @@ Voici qui je suis et ce qui m'anime au quotidien :
 - 💬 Mes principales qualités : détermination, loyauté, autonomie et empathie.
 - ⚡ Ce qui me passionne dans la vie : l'art!!! Je m'évade à travers les tableaux de Picasso, B.Buffet, Botero, Basquiat...
 - 📫 Comment me joindre : diane-mulder@laplateforme.io
-- Mon Portfolio : https://www.canva.com/design/DAFhB5Qokp8/GWTNRQtQYNcJyMphHJdFfQ/watch
+- Mon Portfolio : https://www.canva.com/design/DAFhB5Qokp8/watch
 
 Voici quelques repositories auquels je souhaite vous donner accès afin que vous puissiez découvrir une partie de mon travail effectué cette 
 année à La Plateforme.
